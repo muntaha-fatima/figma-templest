@@ -390,7 +390,7 @@ export default function Home() {
         <h3 className="text-white font-bold text-2xl pb-4">Nextcent</h3>
       </div>
       <p className="text-slate-200 font-normal text-sm mt-4">
-        Copyright © 2020 Nexcent ltd.
+        Copyright © 2024 Seerat Fatiam.
       </p>
       <p className="text-slate-200 font-normal text-sm pb-4">All rights reserved</p>
       <div className="flex gap-3 mt-4">
